@@ -7,21 +7,19 @@
 
 - 🌱 I’m currently learning **Firebase,UI in Flutter**
 
--🤔 I'm looking for help with [Crypto Currency app](https://github.com/AvinashMahanthi/Bit_coin_tracker)
+- 🤔 I'm looking for help with [Crypto Currency app](https://github.com/AvinashMahanthi/Bit_coin_tracker)
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@AvinashMahanthi)
 
 - 💬 Ask me about **Flutter and Python**
 
-- I'm looking to colabrate on (Sorting algorithms in Python)[https://github.com/AvinashMahanthi/sorting-types]
+- I'm looking to colabrate on [Sorting algorithms in Python](https://github.com/AvinashMahanthi/sorting-types)
 
 - 📫 One can reach me [here](https://www.linkedin.com/in/avinash-mahanthi)
 
 - ⚡ Fun fact **Will maintain social distance with light mode users.😂**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 >Familiar with
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
@@ -31,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmahanthi&layout=compact&hide=html&theme=synthwave" alt="avinashmahanthi" /></p>
 
 
->My GitHub Stats:
+##My GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashmahanthi&show_icons=true&theme=synthwave" alt="avinashmahanthi" /></p>
 
 >My media:
