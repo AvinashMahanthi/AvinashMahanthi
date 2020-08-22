@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Mahanthi</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Flutter developer || Pythoneer 🐍 || Blogger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmahanthi" alt="avinashmahanthi" /> </p>
 
@@ -7,9 +7,13 @@
 
 - 🌱 I’m currently learning **Firebase,UI in Flutter**
 
+-🤔 I'm looking for help with [Crypto Currency app](https://github.com/AvinashMahanthi/Bit_coin_tracker)
+
 - 📝 I regulary write articles on [Medium](https://medium.com/@AvinashMahanthi)
 
 - 💬 Ask me about **Flutter and Python**
+
+- I'm looking to colabrate on (Sorting algorithms in Python)[https://github.com/AvinashMahanthi/sorting-types]
 
 - 📫 One can reach me [here](https://www.linkedin.com/in/avinash-mahanthi)
 
@@ -17,7 +21,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 >Familiar with
@@ -26,7 +29,6 @@
 
 >Languages which I usually prefer, Might not limited to this:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmahanthi&layout=compact&hide=html&theme=synthwave" alt="avinashmahanthi" /></p>
-
 
 
 >My GitHub Stats:
