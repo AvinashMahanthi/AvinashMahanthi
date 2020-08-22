@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmahanthi&layout=compact&hide=html&theme=synthwave" alt="avinashmahanthi" /></p>
 
 
-##My GitHub Stats:
+## My GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashmahanthi&show_icons=true&theme=synthwave" alt="avinashmahanthi" /></p>
 
 >My media:
