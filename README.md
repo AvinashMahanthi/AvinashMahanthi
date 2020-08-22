@@ -21,7 +21,7 @@
 
 >Languages which I usually prefer, though it's not limited to this:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmahanthi&layout=compact&hide=html" alt="avinashmahanthi" /></p>
-
+ <br />
 >My GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashmahanthi&show_icons=true&theme=synthwave" alt="avinashmahanthi" /></p>
 
