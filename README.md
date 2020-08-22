@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash Mahanthi</h1><img src="https://tenor.com/TS3c.gif" width="40" height="40" />
+<h1 align="center">Hi 👋, I'm Avinash Mahanthi</h1><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fb9371273ae94a946e92074d1b9696680%2Ftenor.gif%3Fitemid%3D10897308&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fwaving-wave-hand-emoji-gif-10897308&tbnid=a6_NoqZpTaZMwM&vet=12ahUKEwi1yZy-rq_rAhV7gGMGHREDC8YQMygAegUIARDOAQ..i&docid=levYt2V1YxhKMM&w=498&h=498&q=hi%20hand%20%20emoji%20gif&ved=2ahUKEwi1yZy-rq_rAhV7gGMGHREDC8YQMygAegUIARDOAQ" width="40" height="40" />
 <h3 align="center">A passionate Flutter developer || Pythoneer 🐍 || Blogger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmahanthi" alt="avinashmahanthi" /> </p>
