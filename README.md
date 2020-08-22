@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Firebase in Flutter**
 
-- 📝 I regulary write articles on [https://medium.com/@AvinashMahanthi](https://medium.com/@AvinashMahanthi)
+- 📝 I regulary write articles on [Medium](https://medium.com/@AvinashMahanthi)
 
 - 💬 Ask me about **Flutter and Python**
 
-- 📫 How to reach me **avinashfab5678@gmail.com**
+- 📫 How to reach me [here](avinashfab5678@gmail.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
