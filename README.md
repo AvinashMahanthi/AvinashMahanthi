@@ -1,2 +1,3 @@
-
-https://github-readme-stats.vercel.app/api?username=AvinashMahanthi&show_icons=true&theme=synthwave
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
