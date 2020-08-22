@@ -9,6 +9,7 @@ name: Update this repo's README with latest blog posts
 runs-on: ubuntu-latest
 steps:
   - uses: actions/checkout@v2
-  - uses: gautamkrishnar/blog-post-workflow@master
+  - uses: AvinashMahanthi/blog-post-workflow@master
     with:
+      max_post_count: "1"
       feed_list: "https://medium.com/feed/@AvinashMahanthi"
