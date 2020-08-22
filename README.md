@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Mahanthi</h1>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h3 align="center">A passionate Flutter developer || Pythoneer 🐍 || Blogger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmahanthi" alt="avinashmahanthi" /> </p>
