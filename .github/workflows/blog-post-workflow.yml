@@ -11,5 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: AvinashMahanthi/blog-post-workflow@master
         with:
-          max_post_count: "1"
           feed_list: "https://medium.com/feed/@AvinashMahanthi"
