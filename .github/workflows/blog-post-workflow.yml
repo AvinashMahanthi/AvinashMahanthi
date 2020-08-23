@@ -1,6 +1,6 @@
 name: Latest blog post workflow
 on:
-schedule:
+  schedule:
   # Runs every hour
   - cron: '0 * * * *'
 jobs:
