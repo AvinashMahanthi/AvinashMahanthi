@@ -20,7 +20,7 @@
 - ⚡ Fun fact **Will maintain social distance with light mode users.😂**
 
 
-# Blog posts
+# Checkout my recent Blogs here
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
