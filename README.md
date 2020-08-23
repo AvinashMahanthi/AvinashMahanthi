@@ -32,10 +32,14 @@
 
 >Languages which I usually prefer, Might not limited to this:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmahanthi&layout=compact&hide=html&theme=synthwave" alt="avinashmahanthi" /></p>
+---
 
+<details>
+  <summary>:zap: Github Stats</summary>
 
-## My GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashmahanthi&show_icons=true&theme=synthwave" alt="avinashmahanthi" /></p>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashmahanthi&show_icons=true&hide_border=true" />
+
+</details>
 
 >Connect with me:
 <p align="center">
