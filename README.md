@@ -50,8 +50,8 @@
 1. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 2. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 3. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
-4. ❗️ Opened issue [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
-5. 🗣 Commented on [#1](https://github.com//Mokkapps/mokkapps/issues/1) in [Mokkapps/mokkapps](https://github.com//Mokkapps/mokkapps)
+4. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
+5. ❗️ Opened issue [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 <!--END_SECTION:activity-->
 
 </details>
