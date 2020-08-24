@@ -20,6 +20,10 @@
 - ⚡ Fun fact **Will maintain social distance with light mode users.😂**
 
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
 # Checkout my recent Blogs 👇
 <!-- BLOG-POST-LIST:START -->
 - [Git and Introduction to basic concepts of GitHub.](https://medium.com/@AvinashMahanthi/git-and-introduction-to-basic-concepts-of-github-a7e7afc4705d?source=rss-5ae14ecb5e89------2)
