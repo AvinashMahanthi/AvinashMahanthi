@@ -44,7 +44,8 @@
 </details>
 
 
-  
+<details>
+  <summary>:zap: my latest commits</summary>  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 2. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
@@ -52,7 +53,7 @@
 4. ❗️ Opened issue [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 5. 🗣 Commented on [#1](https://github.com//Mokkapps/mokkapps/issues/1) in [Mokkapps/mokkapps](https://github.com//Mokkapps/mokkapps)
 <!--END_SECTION:activity-->
-
+</details>
 
 ### Connect with me:
 <p align="center">
