@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
+1. ❗️ Opened issue [#22](https://github.com//jamesgeorge007/github-activity-readme/issues/22) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 2. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 3. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 4. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
-5. ❗️ Opened issue [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
+5. 🗣 Commented on [#23](https://github.com//gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 <!--END_SECTION:activity-->
 
 </details>
