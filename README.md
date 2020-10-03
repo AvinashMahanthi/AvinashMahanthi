@@ -47,9 +47,9 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/londonappbrewery/Clima-Flutter/issues/1) in [londonappbrewery/Clima-Flutter](https://github.com/londonappbrewery/Clima-Flutter)
+1. 💪 Opened PR [#1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/1) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
 2. 🗣 Commented on [#1](https://github.com/londonappbrewery/Clima-Flutter/issues/1) in [londonappbrewery/Clima-Flutter](https://github.com/londonappbrewery/Clima-Flutter)
-3. ❗️ Closed issue [#1](https://github.com/Mokkapps/mokkapps/issues/1) in [Mokkapps/mokkapps](https://github.com/Mokkapps/mokkapps)
+3. 🗣 Commented on [#1](https://github.com/londonappbrewery/Clima-Flutter/issues/1) in [londonappbrewery/Clima-Flutter](https://github.com/londonappbrewery/Clima-Flutter)
 4. ❗️ Opened issue [#22](https://github.com/jamesgeorge007/github-activity-readme/issues/22) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 5. 🗣 Commented on [#23](https://github.com/gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 <!--END_SECTION:activity-->
