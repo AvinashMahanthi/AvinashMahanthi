@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/2) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
-2. 💪 Opened PR [#1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/1) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
-3. 🗣 Commented on [#1](https://github.com/londonappbrewery/Clima-Flutter/issues/1) in [londonappbrewery/Clima-Flutter](https://github.com/londonappbrewery/Clima-Flutter)
+1. ❗️ Opened issue [#26](https://github.com/HarshCasper/HelpingHand/issues/26) in [HarshCasper/HelpingHand](https://github.com/HarshCasper/HelpingHand)
+2. 💪 Opened PR [#2](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/2) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
+3. 💪 Opened PR [#1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/1) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
 4. 🗣 Commented on [#1](https://github.com/londonappbrewery/Clima-Flutter/issues/1) in [londonappbrewery/Clima-Flutter](https://github.com/londonappbrewery/Clima-Flutter)
-5. 🗣 Commented on [#23](https://github.com/gautamkrishnar/blog-post-workflow/issues/23) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+5. 🗣 Commented on [#1](https://github.com/londonappbrewery/Clima-Flutter/issues/1) in [londonappbrewery/Clima-Flutter](https://github.com/londonappbrewery/Clima-Flutter)
 <!--END_SECTION:activity-->
 
 </details>
