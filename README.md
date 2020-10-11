@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/himanshusharma89/flutterx100/issues/14) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
-2. 🗣 Commented on [#1](https://github.com/Team-FSociety/hacktoberfest/issues/1) in [Team-FSociety/hacktoberfest](https://github.com/Team-FSociety/hacktoberfest)
-3. 🗣 Commented on [#14](https://github.com/himanshusharma89/flutterx100/issues/14) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
-4. ❗️ Opened issue [#15](https://github.com/himanshusharma89/relic_bazaar/issues/15) in [himanshusharma89/relic_bazaar](https://github.com/himanshusharma89/relic_bazaar)
-5. ❗️ Opened issue [#26](https://github.com/HarshCasper/HelpingHand/issues/26) in [HarshCasper/HelpingHand](https://github.com/HarshCasper/HelpingHand)
+1. 💪 Opened PR [#89](https://github.com/Team-FSociety/hacktoberfest/pull/89) in [Team-FSociety/hacktoberfest](https://github.com/Team-FSociety/hacktoberfest)
+2. 🗣 Commented on [#14](https://github.com/himanshusharma89/flutterx100/issues/14) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+3. 🗣 Commented on [#1](https://github.com/Team-FSociety/hacktoberfest/issues/1) in [Team-FSociety/hacktoberfest](https://github.com/Team-FSociety/hacktoberfest)
+4. 🗣 Commented on [#14](https://github.com/himanshusharma89/flutterx100/issues/14) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+5. ❗️ Opened issue [#15](https://github.com/himanshusharma89/relic_bazaar/issues/15) in [himanshusharma89/relic_bazaar](https://github.com/himanshusharma89/relic_bazaar)
 <!--END_SECTION:activity-->
 
 </details>
