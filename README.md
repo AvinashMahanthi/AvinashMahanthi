@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/himanshusharma89/relic_bazaar/issues/15) in [himanshusharma89/relic_bazaar](https://github.com/himanshusharma89/relic_bazaar)
-2. ❗️ Opened issue [#26](https://github.com/HarshCasper/HelpingHand/issues/26) in [HarshCasper/HelpingHand](https://github.com/HarshCasper/HelpingHand)
-3. 💪 Opened PR [#2](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/2) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
-4. 💪 Opened PR [#1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/1) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
-5. 🗣 Commented on [#1](https://github.com/londonappbrewery/Clima-Flutter/issues/1) in [londonappbrewery/Clima-Flutter](https://github.com/londonappbrewery/Clima-Flutter)
+1. 🗣 Commented on [#14](https://github.com/himanshusharma89/flutterx100/issues/14) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+2. ❗️ Opened issue [#15](https://github.com/himanshusharma89/relic_bazaar/issues/15) in [himanshusharma89/relic_bazaar](https://github.com/himanshusharma89/relic_bazaar)
+3. ❗️ Opened issue [#26](https://github.com/HarshCasper/HelpingHand/issues/26) in [HarshCasper/HelpingHand](https://github.com/HarshCasper/HelpingHand)
+4. 💪 Opened PR [#2](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/2) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
+5. 💪 Opened PR [#1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1/pull/1) in [manisaiprasad/Data-Structures-and-Algorithms-1](https://github.com/manisaiprasad/Data-Structures-and-Algorithms-1)
 <!--END_SECTION:activity-->
 
 </details>
