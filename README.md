@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/AbhiSinghDeveloper/Python-Collection/pull/37) in [AbhiSinghDeveloper/Python-Collection](https://github.com/AbhiSinghDeveloper/Python-Collection)
-2. 💪 Opened PR [#89](https://github.com/Team-FSociety/hacktoberfest/pull/89) in [Team-FSociety/hacktoberfest](https://github.com/Team-FSociety/hacktoberfest)
-3. 🗣 Commented on [#14](https://github.com/himanshusharma89/flutterx100/issues/14) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
-4. 🗣 Commented on [#1](https://github.com/Team-FSociety/hacktoberfest/issues/1) in [Team-FSociety/hacktoberfest](https://github.com/Team-FSociety/hacktoberfest)
-5. 🗣 Commented on [#14](https://github.com/himanshusharma89/flutterx100/issues/14) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+1. 🗣 Commented on [#1](https://github.com/AbhiSinghDeveloper/Python-Collection/issues/1) in [AbhiSinghDeveloper/Python-Collection](https://github.com/AbhiSinghDeveloper/Python-Collection)
+2. 🗣 Commented on [#14](https://github.com/himanshusharma89/flutterx100/issues/14) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+3. 💪 Opened PR [#28](https://github.com/himanshusharma89/flutterx100/pull/28) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+4. 💪 Opened PR [#37](https://github.com/AbhiSinghDeveloper/Python-Collection/pull/37) in [AbhiSinghDeveloper/Python-Collection](https://github.com/AbhiSinghDeveloper/Python-Collection)
+5. 💪 Opened PR [#89](https://github.com/Team-FSociety/hacktoberfest/pull/89) in [Team-FSociety/hacktoberfest](https://github.com/Team-FSociety/hacktoberfest)
 <!--END_SECTION:activity-->
 
 </details>
