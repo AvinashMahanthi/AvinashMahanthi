@@ -47,10 +47,10 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/StatusNeo/Hacktoberfest_2020/issues/2) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
-2. 💪 Opened PR [#84](https://github.com/StatusNeo/Hacktoberfest_2020/pull/84) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
-3. 🗣 Commented on [#2](https://github.com/StatusNeo/Hacktoberfest_2020/issues/2) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
-4. 🗣 Commented on [#28](https://github.com/himanshusharma89/flutterx100/issues/28) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+1. 💪 Opened PR [#9](https://github.com/divyasri987/hacktober2022/pull/9) in [divyasri987/hacktober2022](https://github.com/divyasri987/hacktober2022)
+2. 🗣 Commented on [#2](https://github.com/StatusNeo/Hacktoberfest_2020/issues/2) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
+3. 💪 Opened PR [#84](https://github.com/StatusNeo/Hacktoberfest_2020/pull/84) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
+4. 🗣 Commented on [#2](https://github.com/StatusNeo/Hacktoberfest_2020/issues/2) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
 5. 🗣 Commented on [#28](https://github.com/himanshusharma89/flutterx100/issues/28) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
 <!--END_SECTION:activity-->
 
