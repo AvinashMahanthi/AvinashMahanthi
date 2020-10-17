@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/himanshusharma89/flutterx100/issues/28) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+1. 🗣 Commented on [#2](https://github.com/StatusNeo/Hacktoberfest_2020/issues/2) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
 2. 🗣 Commented on [#28](https://github.com/himanshusharma89/flutterx100/issues/28) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
-3. 🗣 Commented on [#89](https://github.com/Team-FSociety/hacktoberfest/issues/89) in [Team-FSociety/hacktoberfest](https://github.com/Team-FSociety/hacktoberfest)
-4. 🗣 Commented on [#28](https://github.com/himanshusharma89/flutterx100/issues/28) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
-5. 🗣 Commented on [#1](https://github.com/AbhiSinghDeveloper/Python-Collection/issues/1) in [AbhiSinghDeveloper/Python-Collection](https://github.com/AbhiSinghDeveloper/Python-Collection)
+3. 🗣 Commented on [#28](https://github.com/himanshusharma89/flutterx100/issues/28) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
+4. 🗣 Commented on [#89](https://github.com/Team-FSociety/hacktoberfest/issues/89) in [Team-FSociety/hacktoberfest](https://github.com/Team-FSociety/hacktoberfest)
+5. 🗣 Commented on [#28](https://github.com/himanshusharma89/flutterx100/issues/28) in [himanshusharma89/flutterx100](https://github.com/himanshusharma89/flutterx100)
 <!--END_SECTION:activity-->
 
 </details>
