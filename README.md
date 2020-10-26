@@ -47,11 +47,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/DSC-SIST/D-Bug/issues/14) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
-2. 💪 Opened PR [#10](https://github.com/DSC-SIST/D-Bug/pull/10) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
-3. 💪 Opened PR [#4](https://github.com/DSC-SIST/BugZoid/pull/4) in [DSC-SIST/BugZoid](https://github.com/DSC-SIST/BugZoid)
-4. 💪 Opened PR [#9](https://github.com/divyasri987/hacktober2022/pull/9) in [divyasri987/hacktober2022](https://github.com/divyasri987/hacktober2022)
-5. 🗣 Commented on [#2](https://github.com/StatusNeo/Hacktoberfest_2020/issues/2) in [StatusNeo/Hacktoberfest_2020](https://github.com/StatusNeo/Hacktoberfest_2020)
+1. 💪 Opened PR [#27](https://github.com/DSC-SIST/D-Bug/pull/27) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
+2. 🗣 Commented on [#14](https://github.com/DSC-SIST/D-Bug/issues/14) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
+3. 💪 Opened PR [#10](https://github.com/DSC-SIST/D-Bug/pull/10) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
+4. 💪 Opened PR [#4](https://github.com/DSC-SIST/BugZoid/pull/4) in [DSC-SIST/BugZoid](https://github.com/DSC-SIST/BugZoid)
+5. 💪 Opened PR [#9](https://github.com/divyasri987/hacktober2022/pull/9) in [divyasri987/hacktober2022](https://github.com/divyasri987/hacktober2022)
 <!--END_SECTION:activity-->
 
 </details>
