@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmahanthi" alt="avinashmahanthi" /> </p>
 
-- 🔭 I’m currently working on **Innovation club project**
+- 🔭 I’m currently working on **flutter app**
 
 - 🌱 I’m currently learning **Firebase,UI in Flutter**
 
