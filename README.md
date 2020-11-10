@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **flutter app**
 
-- 🌱 I’m currently learning **Firebase,UI in Flutter**
+- 🌱 I’m currently learning **Firebase, web development**
 
 - 🤔 I'm looking for help with [Crypto Currency app](https://github.com/AvinashMahanthi/Bit_coin_tracker)
 
