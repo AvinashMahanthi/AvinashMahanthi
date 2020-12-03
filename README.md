@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmahanthi" alt="avinashmahanthi" /> </p>
 
-- 🔭 I’m currently working on **flutter app**
+- 🔭 I’m currently working on **firebase project**
 
 - 🌱 I’m currently learning **Firebase, web development**
 
@@ -32,10 +32,11 @@
 - [What? Where? and How to get started with AI!](https://medium.com/@AvinashMahanthi/what-where-and-how-to-study-ai-2f3f84065479?source=rss-5ae14ecb5e89------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Languages
+* <img src ="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25> <img src ="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" height=25> <img src ="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart" height=25> <img src ="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C" height=25> <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25> <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25> <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25>
 
-
-### Languages and Tools:
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="c" width="40" height="40" /> </p>
+### Frameworks and Tools:
+<p align="left">  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="c" width="40" height="40" /> </p>
 
 ---
 
