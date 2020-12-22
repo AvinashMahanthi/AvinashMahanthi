@@ -50,11 +50,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/Worktrolly/worktrolly/pull/77) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-2. 🗣 Commented on [#30](https://github.com/DSC-SIST/D-Bug/issues/30) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
-3. 🗣 Commented on [#16](https://github.com/DSC-SIST/D-Bug/issues/16) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
-4. 💪 Opened PR [#30](https://github.com/DSC-SIST/D-Bug/pull/30) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
-5. 💪 Opened PR [#29](https://github.com/DSC-SIST/D-Bug/pull/29) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
+1. ❌ Closed PR [#77](https://github.com/Worktrolly/worktrolly/pull/77) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+2. 💪 Opened PR [#77](https://github.com/Worktrolly/worktrolly/pull/77) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+3. 🗣 Commented on [#30](https://github.com/DSC-SIST/D-Bug/issues/30) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
+4. 🗣 Commented on [#16](https://github.com/DSC-SIST/D-Bug/issues/16) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
+5. 💪 Opened PR [#30](https://github.com/DSC-SIST/D-Bug/pull/30) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
 <!--END_SECTION:activity-->
 
 </details>
