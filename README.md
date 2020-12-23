@@ -50,11 +50,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/Worktrolly/worktrolly/pull/78) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-2. ❌ Closed PR [#77](https://github.com/Worktrolly/worktrolly/pull/77) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-3. 💪 Opened PR [#77](https://github.com/Worktrolly/worktrolly/pull/77) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-4. 🗣 Commented on [#30](https://github.com/DSC-SIST/D-Bug/issues/30) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
-5. 🗣 Commented on [#16](https://github.com/DSC-SIST/D-Bug/issues/16) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
+1. 🗣 Commented on [#78](https://github.com/Worktrolly/worktrolly/issues/78) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+2. 💪 Opened PR [#78](https://github.com/Worktrolly/worktrolly/pull/78) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+3. ❌ Closed PR [#77](https://github.com/Worktrolly/worktrolly/pull/77) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+4. 💪 Opened PR [#77](https://github.com/Worktrolly/worktrolly/pull/77) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+5. 🗣 Commented on [#30](https://github.com/DSC-SIST/D-Bug/issues/30) in [DSC-SIST/D-Bug](https://github.com/DSC-SIST/D-Bug)
 <!--END_SECTION:activity-->
 
 </details>
