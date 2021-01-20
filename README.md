@@ -21,9 +21,6 @@
 - ⚡ Fun fact **Will maintain social distance with light mode users.😂**
 
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 
 # Checkout my recent Blogs 👇
 <!-- BLOG-POST-LIST:START -->
