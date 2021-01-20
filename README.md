@@ -48,11 +48,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/HarshCasper/HelpingHand/issues/26) in [HarshCasper/HelpingHand](https://github.com/HarshCasper/HelpingHand)
-2. 🗣 Commented on [#97](https://github.com/Worktrolly/worktrolly/issues/97) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-3. 💪 Opened PR [#97](https://github.com/Worktrolly/worktrolly/pull/97) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-4. 💪 Opened PR [#94](https://github.com/Worktrolly/worktrolly/pull/94) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-5. 🗣 Commented on [#78](https://github.com/Worktrolly/worktrolly/issues/78) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+1. 💪 Opened PR [#98](https://github.com/Worktrolly/worktrolly/pull/98) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+2. ❗️ Closed issue [#26](https://github.com/HarshCasper/HelpingHand/issues/26) in [HarshCasper/HelpingHand](https://github.com/HarshCasper/HelpingHand)
+3. 🗣 Commented on [#97](https://github.com/Worktrolly/worktrolly/issues/97) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+4. 💪 Opened PR [#97](https://github.com/Worktrolly/worktrolly/pull/97) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+5. 💪 Opened PR [#94](https://github.com/Worktrolly/worktrolly/pull/94) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
 <!--END_SECTION:activity-->
 
 </details>
