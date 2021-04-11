@@ -48,11 +48,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DSC-SIST/Opportunity-Tracker/pull/1) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
-2. 💪 Opened PR [#1](https://github.com/DSC-SIST/Opportunity-Tracker/pull/1) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
-3. ❌ Closed PR [#130](https://github.com/Worktrolly/worktrolly/pull/130) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-4. ❌ Closed PR [#129](https://github.com/Worktrolly/worktrolly/pull/129) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
-5. 🗣 Commented on [#120](https://github.com/Worktrolly/worktrolly/issues/120) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+1. 💪 Opened PR [#19](https://github.com/KamalDGRT/event-aggregator-demo/pull/19) in [KamalDGRT/event-aggregator-demo](https://github.com/KamalDGRT/event-aggregator-demo)
+2. 🎉 Merged PR [#1](https://github.com/DSC-SIST/Opportunity-Tracker/pull/1) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+3. 💪 Opened PR [#1](https://github.com/DSC-SIST/Opportunity-Tracker/pull/1) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+4. ❌ Closed PR [#130](https://github.com/Worktrolly/worktrolly/pull/130) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
+5. ❌ Closed PR [#129](https://github.com/Worktrolly/worktrolly/pull/129) in [Worktrolly/worktrolly](https://github.com/Worktrolly/worktrolly)
 <!--END_SECTION:activity-->
 
 </details>
