@@ -48,11 +48,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/DSC-SIST/Opportunity-Tracker/issues/4) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
-2. 🎉 Merged PR [#4](https://github.com/DSC-SIST/Opportunity-Tracker/pull/4) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
-3. 💪 Opened PR [#44](https://github.com/KamalDGRT/event-aggregator-demo/pull/44) in [KamalDGRT/event-aggregator-demo](https://github.com/KamalDGRT/event-aggregator-demo)
-4. 💪 Opened PR [#42](https://github.com/KamalDGRT/event-aggregator-demo/pull/42) in [KamalDGRT/event-aggregator-demo](https://github.com/KamalDGRT/event-aggregator-demo)
-5. 💪 Opened PR [#41](https://github.com/KamalDGRT/event-aggregator-demo/pull/41) in [KamalDGRT/event-aggregator-demo](https://github.com/KamalDGRT/event-aggregator-demo)
+1. 🗣 Commented on [#6](https://github.com/DSC-SIST/Opportunity-Tracker/issues/6) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+2. ❗️ Closed issue [#6](https://github.com/DSC-SIST/Opportunity-Tracker/issues/6) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+3. 🎉 Merged PR [#9](https://github.com/DSC-SIST/Opportunity-Tracker/pull/9) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+4. 🗣 Commented on [#4](https://github.com/DSC-SIST/Opportunity-Tracker/issues/4) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+5. 🎉 Merged PR [#4](https://github.com/DSC-SIST/Opportunity-Tracker/pull/4) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
 <!--END_SECTION:activity-->
 
 </details>
