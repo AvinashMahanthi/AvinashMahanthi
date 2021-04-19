@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmahanthi" alt="avinashmahanthi" /> </p>
 
-- 🔭 I’m currently working on **firebase project**
+- 🔭 I’m currently working on **Task Tracker**
 
-- 🌱 I’m currently learning **Firebase, web development**
+- 🌱 I’m currently learning **React**
 
 - 🤔 I'm looking for help with [Crypto Currency app](https://github.com/AvinashMahanthi/Bit_coin_tracker)
 
