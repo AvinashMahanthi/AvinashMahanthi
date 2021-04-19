@@ -48,11 +48,11 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/DSC-SIST/Opportunity-Tracker/issues/6) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
-2. ❗️ Closed issue [#6](https://github.com/DSC-SIST/Opportunity-Tracker/issues/6) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
-3. 🎉 Merged PR [#9](https://github.com/DSC-SIST/Opportunity-Tracker/pull/9) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
-4. 🗣 Commented on [#4](https://github.com/DSC-SIST/Opportunity-Tracker/issues/4) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
-5. 🎉 Merged PR [#4](https://github.com/DSC-SIST/Opportunity-Tracker/pull/4) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+1. ❗️ Opened issue [#10](https://github.com/DSC-SIST/Opportunity-Tracker/issues/10) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+2. 🗣 Commented on [#6](https://github.com/DSC-SIST/Opportunity-Tracker/issues/6) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+3. ❗️ Closed issue [#6](https://github.com/DSC-SIST/Opportunity-Tracker/issues/6) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+4. 🎉 Merged PR [#9](https://github.com/DSC-SIST/Opportunity-Tracker/pull/9) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+5. 🗣 Commented on [#4](https://github.com/DSC-SIST/Opportunity-Tracker/issues/4) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
 <!--END_SECTION:activity-->
 
 </details>
