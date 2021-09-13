@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmahanthi" alt="avinashmahanthi" /> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Spring MVC**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 🤔 I'm looking for help with [Crypto Currency app](https://github.com/AvinashMahanthi/Bit_coin_tracker)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Flutter and Python**
 
-- I'm looking to colabrate on [Sorting algorithms in Python](https://github.com/AvinashMahanthi/sorting-types)
+- I'm looking to colabrate on Opensource Projects
 
 - 📫 One can reach me [here](https://www.linkedin.com/in/avinash-mahanthi)
 
