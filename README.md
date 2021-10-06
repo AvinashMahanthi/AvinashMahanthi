@@ -49,8 +49,8 @@
   <summary>:zap: Recent Github activity</summary>  
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/sandeep-v1404/BrillCare/pull/1) in [sandeep-v1404/BrillCare](https://github.com/sandeep-v1404/BrillCare)
-2. 🎉 Merged PR [#13](https://github.com/DSC-SIST/Opportunity-Tracker/pull/13) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
+1. 🎉 Merged PR [#1](https://github.com/AvinashMahanthi/Portfolio/pull/1) in [AvinashMahanthi/Portfolio](https://github.com/AvinashMahanthi/Portfolio)
+2. 💪 Opened PR [#1](https://github.com/AvinashMahanthi/Portfolio/pull/1) in [AvinashMahanthi/Portfolio](https://github.com/AvinashMahanthi/Portfolio)
 3. 🗣 Commented on [#13](https://github.com/DSC-SIST/Opportunity-Tracker/issues/13) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
 4. ❗️ Opened issue [#10](https://github.com/DSC-SIST/Opportunity-Tracker/issues/10) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
 5. 🗣 Commented on [#6](https://github.com/DSC-SIST/Opportunity-Tracker/issues/6) in [DSC-SIST/Opportunity-Tracker](https://github.com/DSC-SIST/Opportunity-Tracker)
