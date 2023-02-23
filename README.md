@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashmahanthi" alt="avinashmahanthi" /> </p>
 
-- 🔭 I’m currently working on **Spring MVC**
+- 🔭 I’m currently working on **Cloud**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **AWS**
 
 - 🤔 I'm looking for help with [Crypto Currency app](https://github.com/AvinashMahanthi/Bit_coin_tracker)
 
